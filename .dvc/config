@@ -1,0 +1,4 @@
+[core]
+    remote = g_folder
+['remote "g_folder"']
+    url = gdrive://11zLO4WYy6_MiWtdc4RF3RZghkKvGVXgf
